@@ -1,10 +1,8 @@
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15px"> I'm Wiji Fiko Teren, people call me Fiko, currently I'm looking for a job. I'm a tech fan. I am always open to collaborating on innovative/disruptive projects and ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-wijifikoteren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiji-fiko-teren-4a7a00219/)](https://www.linkedin.com/in/wiji-fiko-teren-4a7a00219/)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCg0vH4hDGuLQlAxtfGCSL9A)](https://www.youtube.com/channel/UCg0vH4hDGuLQlAxtfGCSL9A)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tobellord@gmail.com)](mailto:tobellord@gmail.com)
 
 ## ⚡ Technologies
 
