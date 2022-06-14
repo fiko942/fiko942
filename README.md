@@ -15,6 +15,13 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-000000?style=flat-square&logo=codeigniter)
+![Electron](https://img.shields.io/badge/-Electron-ffffff?style=flat-square&logo=electron)
+![JQuery](https://img.shields.io/badge/-JQuery-000000?style=flat-square&logo=jquery)
+![Composer](https://img.shields.io/badge/-Composer-000000?style=flat-square&logo=composer)
+![CSharp](https://img.shields.io/badge/-CSharp-4D98CC?style=flat-square&logo=csharp)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fiko942&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiko942&hide=TeX&layout=compact)
