@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="15px">
+## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15px">
 
 I'm Wiji Fiko Teren, people call me Fiko, currently I'm looking for a job. I'm a tech fan. I am always open to collaborating on innovative/disruptive projects and ideas. Find out more about me & feel free to connect with me here:
 
