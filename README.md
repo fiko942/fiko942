@@ -22,6 +22,7 @@
 ![Composer](https://img.shields.io/badge/-Composer-000000?style=flat-square&logo=composer)
 ![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat-square&logo=csharp)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=flat-square&logo=npm)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fiko942&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiko942&hide=TeX&layout=compact)
