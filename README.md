@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="15px"> I'm Wiji Fiko Teren, people call me Fiko, currently I'm looking for a job. I'm a tech fan. I am always open to collaborating on innovative/disruptive projects and ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-wijifikoteren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiji-fiko-teren-4a7a00219/)](https://www.linkedin.com/in/wiji-fiko-teren-4a7a00219/)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCg0vH4hDGuLQlAxtfGCSL9A)](https://www.youtube.com/channel/UCg0vH4hDGuLQlAxtfGCSL9A)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tobellord@gmail.com)](mailto:tobellord@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-wijifikoteren-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCg0vH4hDGuLQlAxtfGCSL9A)](https://www.youtube.com/channel/UCg0vH4hDGuLQlAxtfGCSL9A)
+[![Gmail Badge](https://img.shields.io/badge/-tobellord@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tobellord@gmail.com)](mailto:tobellord@gmail.com)
 
 ## ⚡ Technologies
 
